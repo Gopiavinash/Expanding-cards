@@ -60,4 +60,12 @@ body {
   .panel:nth-last-of-type(5) {
     display: none;
   }
+
+  .panel {
+    height: 60vh;
+  }
+
+  .container {
+    overflow: hidden;
+  }
 }
